@@ -38,3 +38,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #    define RGBLIGHT_SAT_STEP 17
 #    define RGBLIGHT_VAL_STEP 17
 #endif
+
+#ifdef COMBO_ENABLE
+#    define COMBO_TERM 40 // default: 50
+#endif
