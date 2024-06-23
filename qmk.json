@@ -1,6 +1,10 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["crkbd/rev1", "rmeli"]
+        ["crkbd/r2g", "rmeli"],
+        ["boardsource/lulu/rp2040", "rmeli"],
+        ["preonic/rev3_drop", "rmeli"],
+        ["evyd13/pockettype", "rmeli"],
+        ["reviung/reviung41", "rmeli"]
     ]
 }
